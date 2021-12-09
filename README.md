@@ -10,7 +10,8 @@ const j!m = {
   goal: 'Become a competitive full stack developer'  
 }		
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yimmytor)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yimmytor&layout=compact)
+
 
 
 
