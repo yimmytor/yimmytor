@@ -1,4 +1,4 @@
-### Hello world! My name is Jimmy 👋:grin: 
+### Hello world! I'm Jimmy 👋:grin: 
 
 ```javascript	
 const jim = {
