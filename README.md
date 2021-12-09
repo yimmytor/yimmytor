@@ -1,7 +1,7 @@
 ### Hello world! My name is Jimmy 👋:grin: 
 
 ```javascript	
-const j!m = {
+const jim = {
   name: 'Jimmy Torres',
   profession: 'Software Developer',  
   currently: 'Focused on learning as much as I can, especially on web technologies',
