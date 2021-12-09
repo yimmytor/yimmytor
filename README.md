@@ -6,7 +6,7 @@ const jim = {
   nombre: 'Jimmy Torres',
   profesion: 'Software Developer',  
   actualmente: 'Enfocado en aprender mucho en desarrollo de software, especialmente en desarrollo web',
-  tecnologias: ['HTML','CSS','JavaScript','TypeScript','Java','C#','SQL','React','Angular'],
+  tecnologias: ['HTML','CSS','JavaScript','TypeScript','React','Angular','Java','C#','WPF','VB','SQL'],
   hobbies: ['disfrutar con mi familia','aprender','leer','dibujar','cocinar'],
   meta: 'Ganar el conocimiento y experiencia necesarios para convertirme en un desarrollador full stack'  
 }		
