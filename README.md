@@ -2,7 +2,7 @@
 ### Hello world! I'm Jimmy 👋
 
 ```javascript	
-const profile = {
+let profile = {
   name: 'Jimmy Torres',
   profession: 'Software Developer',  
   current: 'Focused on acquiring and strengthening skills in software development, especially in web',
