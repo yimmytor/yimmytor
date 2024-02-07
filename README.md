@@ -7,7 +7,7 @@ let profile = {
   profession: 'Software Developer',  
   current: 'Focused on acquiring and strengthening skills in software development, especially in web',
   technologies: ['HTML','CSS','JavaScript','TypeScript','React','Angular','Java','C#','ASP','.Net Core','VB','SQL'],
-  hobbies: ['spend time with my family','learn new things','read books','cook','travel'] 
+  hobbies: ['spend time with my family','learn new things','read books','cook','travel','gardening'] 
 }		
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yimmytor&layout=compact)
